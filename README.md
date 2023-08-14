@@ -28,7 +28,7 @@ The `easy-pi-tuner` can be beneficial in:
 ## Installation
 
 ```bash
-npm install easy-self-tuning-pi-controller
+npm install easy-pi-tuner
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ npm install easy-self-tuning-pi-controller
 To use the `SelfTuningPIController`, first import the module:
 
 ```javascript
-const SelfTuningPIController = require('easy-self-tuning-pi-controller');
+const SelfTuningPIController = require('easy-pi-tuner');
 ```
 
 Then, create a new instance of the controller:
