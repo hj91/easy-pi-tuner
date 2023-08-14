@@ -1,0 +1,25 @@
+{
+  "name": "easy-pi-tuner",
+  "version": "1.0.0",
+  "description": "Self Tuning PI Controller at work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hj91/easy-pi-tuner.git"
+  },
+  "keywords": [
+    "adaptive",
+    "pid",
+    "controller"
+  ],
+  "author": "Harshad Joshi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hj91/easy-pi-tuner/issues"
+  },
+  "homepage": "https://github.com/hj91/easy-pi-tuner#readme"
+}
+
